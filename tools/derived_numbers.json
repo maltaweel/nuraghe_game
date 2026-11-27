@@ -1,0 +1,77 @@
+{
+ "hours_per_day": 8,
+ "season_days": 90,
+ "tonnes_per_tower": 1350,
+ "block_median_kg": 450,
+ "blocks_per_tower": 3000,
+ "stone_m3_per_tower": 565.8005029337804,
+ "ph_quarry": {
+  "webster": 2500,
+  "joints_low": 6280.3855825649625,
+  "scree": 1131.6010058675608
+ },
+ "ph_dress_webster": 10400,
+ "ph_build_without_lift": 2800.0,
+ "ph_lift": {
+  "webster": 2800.0,
+  "lever": 6536.878050370909,
+  "stair": 1110.8122122013692,
+  "ramp": 19140.576
+ },
+ "sledge_dry_mu": 0.38,
+ "pull_kg_per_person_dry": 78.94736842105263,
+ "crew_per_block_dry": 6,
+ "pull_kg_per_person_base": 100,
+ "crew_per_block_base": 5,
+ "drag_speed_ms": 0.27,
+ "return_walk_ms": 1.39,
+ "load_unload_h": 0.25,
+ "oxen_yokes_per_block": 2,
+ "oxen_men_per_team": 2,
+ "oxen_speed_ms": 0.75,
+ "oxen_return_speed_ms": 0.75,
+ "builders_base": 50,
+ "builders_per_extra_tower": 25,
+ "residents_by_towers": [
+  [
+   5,
+   40
+  ],
+  [
+   40,
+   110
+  ],
+  [
+   110,
+   185
+  ],
+  [
+   185,
+   260
+  ],
+  [
+   260,
+   330
+  ],
+  [
+   330,
+   400
+  ],
+  [
+   330,
+   400
+  ]
+ ],
+ "adult_share": 0.4,
+ "trust0": 0.5,
+ "delta_up": 0.1,
+ "delta_down": 0.2,
+ "beta": [
+  0.0,
+  2.0,
+  0.05,
+  0.2
+ ],
+ "R_m": 10000,
+ "max_asks": 3
+}

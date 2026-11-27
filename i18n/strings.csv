@@ -1,0 +1,220 @@
+keys,en,it
+TITLE,Build a Nuraghe,Costruisci un nuraghe
+SUBTITLE,"Gather your people, choose your methods and raise the tower before the seasons run out.","Riunisci la tua gente, scegli i metodi e alza la torre prima che finiscano le stagioni."
+PLAY_L1,Level 1: a single tower,Livello 1: una torre
+PLAY_L2,Level 2: a tower with lateral towers,Livello 2: una torre con torri laterali
+HOW_TO,How to play,Come si gioca
+ABOUT,About: evidence and guesswork,Informazioni: prove e ipotesi
+SOURCES,Sources and numbers,Fonti e numeri
+LANG_SWITCH,Italiano,English
+PROTOTYPE_NOTE,Prototype. No data is collected. Works offline.,Prototipo. Nessun dato raccolto. Funziona offline.
+BACK,Back,Indietro
+NEXT,Next,Avanti
+CLOSE,Close,Chiudi
+OK,OK,OK
+GO,Start building,Inizia a costruire
+MENU,Main menu,Menu principale
+PLAY_AGAIN,Try other choices,Prova altre scelte
+SOURCE,Source,Fonte
+CHOOSE,Choose,Scegli
+THOUSANDS_SEP,",",.
+HOWTO_BODY,"[b]Goal:[/b] place every block of the nuraghe before the last season ends. A season is 90 working days (one year).
+
+[b]1. Choose how to build.[/b] A quarry (near or far), a way to haul the blocks and a way to lift them. Each choice shows how strong the evidence is: MODEL, DEMONSTRATED, HYPOTHESIS or WHAT-IF. Tap [i]Source[/i] to see where it comes from.
+
+[b]2. Gather your team.[/b] Recruit builders from your village with + and −. Every builder eats 1 kg of food a day from your stores; ox teams eat fodder. Your village is small: you cannot do it alone in time.
+
+[b]3. Ask for help.[/b] Neighbouring villages say yes or no. They say yes more often if they trust you, are not busy with their own tower and live close. Their helpers bring their own food.
+
+[b]4. Help them back.[/b] Neighbours will ask you for builders too. Help them and they trust you more. Refuse a village that helped you and its trust in you drops.
+
+At the end you get [b]your strategy[/b]: a record of your choices that could one day be run in the research simulation.","[b]Obiettivo:[/b] posa tutti i blocchi del nuraghe prima che finisca l'ultima stagione. Una stagione è di 90 giorni lavorativi (un anno).
+
+[b]1. Scegli come costruire.[/b] Una cava (vicina o lontana), un modo di trasportare i blocchi e uno di sollevarli. Ogni scelta mostra quanto è solida la prova: MODELLO, DIMOSTRATO, IPOTESI o E SE. Tocca [i]Fonte[/i] per vedere da dove viene.
+
+[b]2. Forma la squadra.[/b] Recluta costruttori nel tuo villaggio con + e −. Ogni costruttore mangia 1 kg di cibo al giorno dalle tue scorte; i buoi mangiano foraggio. Il tuo villaggio è piccolo: da solo non ce la fai in tempo.
+
+[b]3. Chiedi aiuto.[/b] I villaggi vicini dicono sì o no. Dicono sì più spesso se si fidano di te, se non sono occupati con la loro torre e se abitano vicino. I loro aiutanti portano il proprio cibo.
+
+[b]4. Ricambia.[/b] Anche i vicini ti chiederanno costruttori. Se li aiuti si fidano di più. Se rifiuti un villaggio che ti ha aiutato, la sua fiducia cala.
+
+Alla fine ricevi [b]la tua strategia[/b]: un resoconto delle tue scelte che un giorno potrebbe essere provato nella simulazione di ricerca."
+ABOUT_BODY,"This game is based on an agent-based simulation of nuraghe construction (Repast4Py). Its labour numbers come from that model: how many person-hours it takes to quarry, haul, dress and set the stone of one tower, and how villages decide whether to help each other.
+
+Every building method in the game carries a tag that says how strong the evidence is:","Questo gioco si basa su una simulazione ad agenti della costruzione dei nuraghi (Repast4Py). I numeri del lavoro vengono da quel modello: quante ore-persona servono per cavare, trasportare, sbozzare e posare la pietra di una torre, e come i villaggi decidono se aiutarsi.
+
+Ogni metodo di costruzione nel gioco ha un'etichetta che dice quanto è solida la prova:"
+ABOUT_BODY2,"[b]What is guesswork in the game:[/b] the food stores, the harvest, the fodder for oxen, the cost of recruiting, the size of the neighbouring villages, how often they ask you for help and how long helpers stay. These are game rules, chosen to make a playable game. They are marked ""game rule"" in Sources and numbers.
+
+[b]What the game leaves out:[/b] weather, illness, ritual, conflict, the many ways of fitting stones, and everything we do not know.
+
+Site data: Nurnet.
+
+Privacy: the game collects no data. It makes no network calls and uses no analytics and no cookies. Your strategy record stays on your device unless you copy or download it yourself.","[b]Cosa è ipotesi nel gioco:[/b] le scorte di cibo, il raccolto, il foraggio per i buoi, il costo del reclutamento, la grandezza dei villaggi vicini, quanto spesso ti chiedono aiuto e quanto restano gli aiutanti. Sono regole di gioco, scelte per rendere il gioco giocabile. In Fonti e numeri sono indicate come ""regola di gioco"".
+
+[b]Cosa il gioco lascia fuori:[/b] il tempo atmosferico, le malattie, i riti, i conflitti, i tanti modi di incastrare le pietre e tutto ciò che non sappiamo.
+
+Dati dei siti: Nurnet.
+
+Privacy: il gioco non raccoglie dati. Non fa chiamate di rete e non usa statistiche né cookie. La tua strategia resta sul tuo dispositivo, a meno che tu non la copi o la scarichi."
+TAG_MODEL,MODEL,MODELLO
+TAG_DEMONSTRATED,DEMONSTRATED,DIMOSTRATO
+TAG_HYPOTHESIS,HYPOTHESIS,IPOTESI
+TAG_WHATIF,WHAT-IF,E SE
+TAG_MODEL_DEMONSTRATED,MODEL + DEMONSTRATED,MODELLO + DIMOSTRATO
+TAGDESC_MODEL,in our simulation,nella nostra simulazione
+TAGDESC_DEMONSTRATED,"experimental archaeology shown, no measurements","mostrato dall'archeologia sperimentale, senza misure"
+TAGDESC_HYPOTHESIS,"in the literature, not in our model run","nella letteratura, non nella nostra simulazione"
+TAGDESC_WHATIF,not attested,non attestato
+LEVEL_1,Level 1: a single tower,Livello 1: una torre
+LEVEL_2,Level 2: a tower with lateral towers,Livello 2: una torre con torri laterali
+LEVEL_1_INTRO,"Your village wants a nuraghe: one stone tower, 1,350 tonnes of stone in about 3,000 blocks. You have [b]%d seasons[/b] (%d working days). Your village has %d adults who can build (out of %d people).","Il tuo villaggio vuole un nuraghe: una torre di pietra, 1.350 tonnellate in circa 3.000 blocchi. Hai [b]%d stagioni[/b] (%d giorni lavorativi). Il tuo villaggio ha %d adulti che possono costruire (su %d persone)."
+LEVEL_2_INTRO,"Now a complex nuraghe: a central tower and two lateral towers, 4,050 tonnes in about 9,000 blocks. The central tower goes up first. You have [b]%d seasons[/b] (%d working days). Your village has %d adults who can build (out of %d people).","Ora un nuraghe complesso: una torre centrale e due torri laterali, 4.050 tonnellate in circa 9.000 blocchi. Prima si alza la torre centrale. Hai [b]%d stagioni[/b] (%d giorni lavorativi). Il tuo villaggio ha %d adulti che possono costruire (su %d persone)."
+MODEL_NOTE,"In the simulation, 50 builders finish a single tower in about 64 working days. Your village is much smaller.",Nella simulazione 50 costruttori finiscono una torre in circa 64 giorni lavorativi. Il tuo villaggio è molto più piccolo.
+CHOOSE_QUARRY,1/3 Choose your quarry,1/3 Scegli la cava
+CHOOSE_HAUL,2/3 How will you haul the blocks?,2/3 Come trasporterai i blocchi?
+CHOOSE_LIFT,3/3 How will you lift the blocks?,3/3 Come solleverai i blocchi?
+CHOOSE_HINT,Numbers are person-hours (one person working one hour).,I numeri sono ore-persona (una persona che lavora un'ora).
+OPT_q_near,Near quarry: bedrock,Cava vicina: roccia in posto
+OPT_q_far,Far quarry: boulder field,Cava lontana: campo di massi
+OPT_h_sledge,Sledge and human crew,Slitta e squadra di persone
+OPT_h_rollers,Ropes and log rollers,Funi e rulli di tronchi
+OPT_h_oxen,Oxen pulling a sledge,Buoi che tirano una slitta
+OPT_l_lever,"Levers, course by course","Leve, filare per filare"
+OPT_l_stair,Stair inside the wall,Scala dentro il muro
+OPT_l_ramp,Earth ramp,Rampa di terra
+OPT_l_pulley,Timber frame with a pulley,Telaio di legno con carrucola
+EFF_q_near,"200 m to haul. Splitting bedrock along its joints is slow: 6,280 person-hours of quarrying per tower.",200 m di trasporto. Spaccare la roccia lungo le fratture è lento: 6.280 ore-persona di cava per torre.
+EFF_q_far,"1 km to haul, 5 times farther. Loose boulders are quick to collect: 1,132 person-hours per tower.","1 km di trasporto, 5 volte più lontano. I massi sciolti si raccolgono in fretta: 1.132 ore-persona per torre."
+EFF_h_sledge,6 people drag each 450 kg block at 0.27 m/s and walk back.,"6 persone trascinano ogni blocco di 450 kg a 0,27 m/s e tornano a piedi."
+EFF_h_rollers,Game guess: 4 people per block. Nobody has measured it.,Stima di gioco: 4 persone per blocco. Nessuno l'ha misurato.
+EFF_h_oxen,"2 ox teams and 4 drovers per block, at 0.75 m/s. Each team eats 2 kg of fodder a day (game rule), and you need enough teams.","2 coppie di buoi e 4 conducenti per blocco, a 0,75 m/s. Ogni coppia mangia 2 kg di foraggio al giorno (regola di gioco), e ne servono abbastanza."
+EFF_l_lever,"6,537 person-hours per tower: every block is levered up the face, course by course.","6.537 ore-persona per torre: ogni blocco sale lungo la parete con le leve, filare per filare."
+EFF_l_stair,"1,111 person-hours per tower: blocks go up a stair inside the wall; only the last metre is levered.",1.111 ore-persona per torre: i blocchi salgono da una scala nel muro; solo l'ultimo metro con le leve.
+EFF_l_ramp,"19,141 person-hours per tower: build an earth ramp as tall as the tower, then take it away.",19.141 ore-persona per torre: costruire una rampa di terra alta come la torre e poi toglierla.
+EFF_l_pulley,"Game guess: 1,400 person-hours per tower, plus 150 kg of stores for timber and rope.","Stima di gioco: 1.400 ore-persona per torre, più 150 kg di scorte per legname e funi."
+SRCLINE_q_near,"Bedrock split along joints, 11.1 ph/m³.","Roccia spaccata lungo le fratture, 11,1 ore-persona/m³."
+SRC_q_near,"Spec A6.3; Boswinkel 2021, Table 7.2. Haul 200 m (Borore, Webster).","Spec A6.3; Boswinkel 2021, Table 7.2. Trasporto 200 m (Borore, Webster)."
+SRCLINE_q_far,"Collected boulders (scree), 2.0 ph/m³.","Massi raccolti (detrito di versante), 2,0 ore-persona/m³."
+SRC_q_far,"Literature scenario S1a_scree (Boswinkel 2021, Table 7.2). The 1 km distance is the model's near-site quarry limit (1,000 m).","Scenario di letteratura S1a_scree (Boswinkel 2021, Table 7.2). La distanza di 1 km è il limite del modello per le cave vicine (1.000 m)."
+SRCLINE_h_sledge,Sledge dragged by a human crew on dry ground.,Slitta trascinata da una squadra di persone su terreno asciutto.
+SRC_h_sledge,SCOPE rule 5; spec A6.2 (Boswinkel 2021: 124).,SCOPE rule 5; spec A6.2 (Boswinkel 2021: 124).
+SRCLINE_h_rollers,Ropes and wooden logs as rollers.,Funi e tronchi di legno come rulli.
+SRC_h_rollers,"NurTime volunteer trial, Gergei, autumn 2023 (L'Unione Sarda, 13 Nov 2023, p. 21, ""Funi e tronchi per un menhir""); photo only, no measurements. Rollers are not in the model.","Prova dei volontari NurTime, Gergei, autunno 2023 (L'Unione Sarda, 13 nov 2023, p. 21, ""Funi e tronchi per un menhir""); solo foto, nessuna misura. I rulli non sono nel modello."
+SRCLINE_h_oxen,Oxen pulling a sledge.,Buoi che tirano una slitta.
+SRC_h_oxen,"Literature-family scenario S3e_oxen (Boswinkel 2021: 52, 110-112), rated 2: cattle traction probably uncommon before the Late Bronze Age. Not in MR_P10; NurTime has not documented it.","Scenario di letteratura S3e_oxen (Boswinkel 2021: 52, 110-112), voto 2: la trazione bovina era probabilmente rara prima del Bronzo Recente. Non in MR_P10; NurTime non l'ha documentata."
+SRCLINE_l_lever,"Block levered up the face, course by course.","Blocco sollevato con le leve lungo la parete, filare per filare."
+SRC_l_lever,"Spec A6.6 lever rule for corridor nuraghi (Boswinkel 2021: 124); levering with wooden poles shown by NurTime at Is Perdas, Gergei, 2023 (videos on perdasnovas.it; no measurements).","Spec A6.6, regola delle leve per i nuraghi a corridoio (Boswinkel 2021: 124); leve di legno mostrate da NurTime a Is Perdas, Gergei, 2023 (video su perdasnovas.it; nessuna misura)."
+SRCLINE_l_stair,"Intramural stair, last metre levered.","Scala nel muro, ultimo metro con le leve."
+SRC_l_stair,Spec A6.6 stair rule (Laner 1999); the rule used for Nuraghe Attentu.,"Spec A6.6, regola della scala (Laner 1999); la regola usata per il Nuraghe Attentu."
+SRCLINE_l_ramp,External earth ramp.,Rampa di terra esterna.
+SRC_l_ramp,"Literature-family S4b_ramp (Boswinkel 2021: 122-123; Laner 1999), rated 1: a full-height ramp needs about as much material as the nuraghe (Laner 1999: 30). Not attributed to NurTime.","Scenario di letteratura S4b_ramp (Boswinkel 2021: 122-123; Laner 1999), voto 1: una rampa a tutta altezza richiede circa tanto materiale quanto il nuraghe (Laner 1999: 30). Non attribuita a NurTime."
+SRCLINE_l_pulley,Timber frame with a pulley.,Telaio di legno con carrucola.
+SRC_l_pulley,Not attested for Bronze Age Sardinia; never used by the model. Its cost in the game is a game rule.,Non attestato nella Sardegna dell'età del Bronzo; mai usato dal modello. Il suo costo nel gioco è una regola di gioco.
+START_TITLE,Your village is ready,Il villaggio è pronto
+START_BODY,"With your choices the nuraghe needs about [b]%s person-hours[/b] of work. You start with %d builders; your village has %d adults.
+
+Use + and − to recruit builders (5 kg of food each to join). Watch your food. Ask the neighbours for help early.","Con le tue scelte il nuraghe richiede circa [b]%s ore-persona[/b] di lavoro. Inizi con %d costruttori; il villaggio ha %d adulti.
+
+Usa + e − per reclutare costruttori (5 kg di cibo ciascuno per unirsi). Attento al cibo. Chiedi presto aiuto ai vicini."
+BUILDERS,Builders,Costruttori
+OX_TEAMS,Ox teams,Coppie di buoi
+ASK_HELP,Ask a village for help,Chiedi aiuto a un villaggio
+PAUSE,Pause,Pausa
+PLAY,Play,Gioca
+HUD_DAY,Day %d/%d · Season %d/%d,Giorno %d/%d · Stagione %d/%d
+HUD_STORES,Food %s kg,Cibo %s kg
+HUD_PROGRESS,Nuraghe %d%% built · %s of %s blocks set,Nuraghe al %d%% · %s di %s blocchi posati
+HUD_INFO,"Helpers %d · lent out %d · food for %d days · stone at quarry %s, at site %s","Aiutanti %d · prestati %d · cibo per %d giorni · pietre in cava %s, in cantiere %s"
+ALERT_HUNGER,No food today: nobody worked and some builders went home.,Niente cibo oggi: nessuno ha lavorato e alcuni costruttori sono tornati a casa.
+ALERT_NO_OXEN,The blocks wait at the quarry: you need ox teams to haul them.,I blocchi aspettano in cava: servono coppie di buoi per trasportarli.
+ALERT_FOOD_LOW,"Food is running low! Fewer builders, or ask for help (helpers bring their own food).","Il cibo sta finendo! Meno costruttori, oppure chiedi aiuto (gli aiutanti portano il loro cibo)."
+VILLAGE_hill,Village on the hill,Villaggio sulla collina
+VILLAGE_river,Village by the river,Villaggio sul fiume
+VILLAGE_plain,Village on the plain,Villaggio della piana
+VILLAGE_LINE,%.0f km away · %d helpers · trust in you %.2f · busy for %d days · chance of yes %d%%,a %.0f km · %d aiutanti · fiducia in te %.2f · occupato per %d giorni · probabilità di sì %d%%
+ASK_EXPLAIN,"A village says yes more often if it trusts you, is not busy with its own tower and lives close. Helpers stay 10 days and bring their own food.","Un villaggio dice sì più spesso se si fida di te, non è occupato con la sua torre e abita vicino. Gli aiutanti restano 10 giorni e portano il loro cibo."
+ASK,Ask,Chiedi
+ASK_WAIT,Ask again in %d days,Richiedi tra %d giorni
+ASK_YES_T,They said yes!,Hanno detto sì!
+ASK_YES,%s sends %d helpers for %d days.,%s manda %d aiutanti per %d giorni.
+ASK_NO_T,They said no,Hanno detto no
+ASK_NO,"%s cannot help now. Maybe they are busy, far away, or do not trust you enough yet.","%s ora non può aiutarti. Forse è occupato, lontano, o non si fida ancora abbastanza."
+REQ_T,A neighbour asks for help,Un vicino chiede aiuto
+REQ_BODY,%s asks you for %d of your builders for %d days.,%s ti chiede %d dei tuoi costruttori per %d giorni.
+REQ_NOTE_OWE,"They helped you before. If you refuse, their trust in you drops (−0.2). If you help, it rises (+0.1).","Ti hanno già aiutato. Se rifiuti, la loro fiducia in te cala (−0,2). Se aiuti, sale (+0,1)."
+REQ_NOTE_FREE,"If you help, their trust in you rises (+0.1) and they say yes more often later.","Se aiuti, la loro fiducia in te sale (+0,1) e in seguito diranno sì più spesso."
+REQ_YES,Send them builders,Manda i costruttori
+REQ_NO,Refuse,Rifiuta
+SEASON_T,Season %d is over,La stagione %d è finita
+SEASON_BODY,The year turns. The harvest refills your stores: +%s kg of food. The nuraghe is %d%% built. Season %d of %d begins.,L'anno gira. Il raccolto riempie le scorte: +%s kg di cibo. Il nuraghe è al %d%%. Inizia la stagione %d di %d.
+WIN_T,The nuraghe stands!,Il nuraghe è in piedi!
+LOSE_T,The season ended — the walls stand unfinished,La stagione è finita: i muri restano incompiuti
+WIN_BODY,You set the last block on working day %d of %d.,Hai posato l'ultimo blocco nel giorno lavorativo %d di %d.
+LOSE_BODY,The nuraghe is %d%% built; %s blocks are still missing.,Il nuraghe è al %d%%; mancano ancora %s blocchi.
+END_STATS,Work done: %s person-hours. You asked for help %d times (%d yes). Neighbours asked you %d times; you helped %d times.,Lavoro fatto: %s ore-persona. Hai chiesto aiuto %d volte (%d sì). I vicini ti hanno chiesto %d volte; hai aiutato %d volte.
+END_METHODS,Your methods and their evidence:,I tuoi metodi e le loro prove:
+END_NOT_MODEL,"You used a method that is not in the simulation, so its cost here is a game rule, not a model result.","Hai usato un metodo che non è nella simulazione: il suo costo qui è una regola di gioco, non un risultato del modello."
+STRATEGY_T,Your strategy,La tua strategia
+STRATEGY_BODY,"This is a record of your choices and what happened, written in the terms of the simulation's settings. It stays on your device: nothing is sent anywhere. You can copy it or save it as a file.","Questo è il resoconto delle tue scelte e di cosa è successo, scritto nei termini delle impostazioni della simulazione. Resta sul tuo dispositivo: non viene inviato da nessuna parte. Puoi copiarlo o salvarlo come file."
+COPY,Copy,Copia
+COPIED,Copied to your clipboard.,Copiato negli appunti.
+DOWNLOAD,Save as file,Salva come file
+SAVED_AT,Saved on this device: %s,Salvato su questo dispositivo: %s
+SOURCES_BODY,"[b]From the simulation (MODEL)[/b]
+• 1 season = 90 working days = 1 year; 8-hour days (NUR 185; Renfrew 1973 via Webster 1991).
+• One tower = 1,350 t of stone in ~3,000 blocks of ~450 kg (Webster 1991). Density 2,386 kg/m³ (566 m³). Level 2 = 3 towers = 3 × these amounts, as in the model.
+• Dressing 10,400 person-hours and walling 5,600 person-hours per tower (Webster 1991: 852, Table 1: 1,300 and 700 man-days × 8 h; Abrams 1984). Half of walling is lifting (model rule), replaced by the lift method you choose.
+• Quarry: bedrock along joints 11.1 ph/m³ = 6,280 ph; scree 2.0 ph/m³ = 1,132 ph (Boswinkel 2021, Table 7.2).
+• Haul distances: 200 m (Borore, Webster) and 1,000 m (the model's near-site quarry limit).
+• Sledge on dry ground: friction 0.38, 30 kgf per person, so 6 people per 450 kg block (Boswinkel 2021: 124; Cotterell & Kamminga 1990 via Boswinkel 2021); drag 0.27 m/s, walk back 1.39 m/s, loading 0.25 h (model transport settings).
+• Oxen: 515 N per ox, 2 teams per 450 kg block, 2 people per team, 0.75 m/s (Boswinkel 2021: 52; Barwell & Ayre 1982).
+• Lifting: lever 0.37 ph per block per course (Boswinkel 2021: 116, 124) = 6,537 ph; stair, last metre levered (Laner 1999) = 1,111 ph; earth ramp built and removed = 19,141 ph (Boswinkel 2021: 122-123; Turner 2018; Lacquement 2009).
+• Builders = 0.4 × residents (Webster 1991: 854). Village size: 40 people for one tower, 110 for three (model ranges 5-40 and 110-185; Webster 1991: 853).
+• Food ration 1 kg per person per day (model food scenario S12).
+• Help: chance of yes = 1 / (1 + e^−x), x = 2 × trust − 0.05 × busy days − 0.2 × km. Trust starts at 0.5; +0.1 when you help; −0.2 when you refuse a village that helped you. (Model help and trust rules, assumptions of the model.)
+• For comparison: in the block-level model, 50 builders finish one tower in 64 working days.
+
+[b]Game rules (not from the model)[/b]
+• Food stores at the start and harvest each new season: 1,600 kg (level 1), 3,600 kg (level 2).
+• Recruiting: 5 kg of food per new builder. Oxen fodder: 2 kg per team per day. Ox teams available: 6 (level 1), 12 (level 2).
+• Rollers: 4 people per block (no measurements exist). Pulley: 1,400 ph plus 150 kg of stores.
+• Neighbouring villages: 20/30/50 people (level 1), 40/60/110 (level 2), at 2, 5 and 8 km; their own work at the start: 15, 0 and 30 days (20, 0, 40 in level 2). Helping you adds 10 days to their work.
+• Helpers stay 10 days and bring their own food; you can ask the same village again after 10 days.
+• Each day there is a 4% chance that a neighbour asks you for a quarter of your builders for 10 days.
+• A day without enough food: nobody works and a quarter of the builders go home.
+• Work is split between quarry, haul, dressing and setting automatically, setting first.
+
+[b]References[/b]
+Webster 1991, Antiquity 65: 840-856. Boswinkel 2021, Labouring with Large Stones (Sidestone). Laner 1999, Accabadora (FrancoAngeli). Contu 2002. Erasmus 1965. Abrams 1984. NurTime demonstrations (no measurements): L'Unione Sarda, 13 Nov 2023, p. 21; Is Perdas, Gergei, 2023 (perdasnovas.it). Site data: Nurnet.
+
+Game made with Godot Engine (MIT licence). Drawings made in code; no third-party art.
+","[b]Dalla simulazione (MODELLO)[/b]
+• 1 stagione = 90 giorni lavorativi = 1 anno; giornate di 8 ore (NUR 185; Renfrew 1973 via Webster 1991).
+• Una torre = 1.350 t di pietra in ~3.000 blocchi di ~450 kg (Webster 1991). Densità 2.386 kg/m³ (566 m³). Livello 2 = 3 torri = 3 × queste quantità, come nel modello.
+• Sbozzatura 10.400 ore-persona e muratura 5.600 ore-persona per torre (Webster 1991: 852, Table 1: 1.300 e 700 giornate × 8 h; Abrams 1984). Metà della muratura è sollevamento (regola del modello), sostituito dal metodo che scegli.
+• Cava: roccia lungo le fratture 11,1 ore-persona/m³ = 6.280; detrito 2,0 ore-persona/m³ = 1.132 (Boswinkel 2021, Table 7.2).
+• Distanze: 200 m (Borore, Webster) e 1.000 m (limite del modello per le cave vicine).
+• Slitta su terreno asciutto: attrito 0,38, 30 kgf a persona, quindi 6 persone per un blocco di 450 kg (Boswinkel 2021: 124); traino 0,27 m/s, ritorno a piedi 1,39 m/s, carico 0,25 h (impostazioni di trasporto del modello).
+• Buoi: 515 N per bue, 2 coppie per blocco di 450 kg, 2 persone per coppia, 0,75 m/s (Boswinkel 2021: 52; Barwell & Ayre 1982).
+• Sollevamento: leve 0,37 ore-persona per blocco per filare (Boswinkel 2021: 116, 124) = 6.537; scala, ultimo metro con le leve (Laner 1999) = 1.111; rampa di terra costruita e rimossa = 19.141 (Boswinkel 2021: 122-123; Turner 2018; Lacquement 2009).
+• Costruttori = 0,4 × abitanti (Webster 1991: 854). Villaggio: 40 persone per una torre, 110 per tre (intervalli del modello 5-40 e 110-185; Webster 1991: 853).
+• Razione 1 kg di cibo a persona al giorno (scenario alimentare S12 del modello).
+• Aiuto: probabilità di sì = 1 / (1 + e^−x), x = 2 × fiducia − 0,05 × giorni occupati − 0,2 × km. Fiducia iniziale 0,5; +0,1 se aiuti; −0,2 se rifiuti un villaggio che ti ha aiutato. (Regole di aiuto e fiducia del modello, ipotesi del modello.)
+• Per confronto: nel modello a blocchi 50 costruttori finiscono una torre in 64 giorni lavorativi.
+
+[b]Regole di gioco (non dal modello)[/b]
+• Scorte iniziali e raccolto a ogni nuova stagione: 1.600 kg (livello 1), 3.600 kg (livello 2).
+• Reclutamento: 5 kg di cibo per ogni nuovo costruttore. Foraggio: 2 kg per coppia di buoi al giorno. Coppie disponibili: 6 (livello 1), 12 (livello 2).
+• Rulli: 4 persone per blocco (non esistono misure). Carrucola: 1.400 ore-persona più 150 kg di scorte.
+• Villaggi vicini: 20/30/50 persone (livello 1), 40/60/110 (livello 2), a 2, 5 e 8 km; lavoro proprio all'inizio: 15, 0 e 30 giorni (20, 0, 40 nel livello 2). Aiutarti aggiunge 10 giorni al loro lavoro.
+• Gli aiutanti restano 10 giorni e portano il loro cibo; puoi richiedere allo stesso villaggio dopo 10 giorni.
+• Ogni giorno c'è il 4% di probabilità che un vicino ti chieda un quarto dei tuoi costruttori per 10 giorni.
+• Un giorno senza cibo sufficiente: nessuno lavora e un quarto dei costruttori torna a casa.
+• Il lavoro si divide da solo tra cava, trasporto, sbozzatura e posa, prima la posa.
+
+[b]Bibliografia[/b]
+Webster 1991, Antiquity 65: 840-856. Boswinkel 2021, Labouring with Large Stones (Sidestone). Laner 1999, Accabadora (FrancoAngeli). Contu 2002. Erasmus 1965. Abrams 1984. Dimostrazioni NurTime (senza misure): L'Unione Sarda, 13 nov 2023, p. 21; Is Perdas, Gergei, 2023 (perdasnovas.it). Dati dei siti: Nurnet.
+
+Gioco realizzato con Godot Engine (licenza MIT). Disegni fatti nel codice; nessuna grafica di terzi.
+"
